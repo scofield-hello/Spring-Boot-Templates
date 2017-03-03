@@ -18,3 +18,4 @@ Spring Boot In Action
       <optional>true</optional>
 </dependency>
 ```
+- 使用@RestController注解标注Controller类，通过Eclipse启动项目，[访问](http://localhost:8080/index)
